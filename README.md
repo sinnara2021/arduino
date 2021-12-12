@@ -26,7 +26,8 @@
 
 #아두이노의 철학과 앞으로의 미래에 대해 이야기 한 Massimo Banzi의 TED스피치
 
-http://www.ted.com/talks/view/lang/en//id/1491
+![Massimo Banzi의 TED스피치](http://www.ted.com/talks/view/lang/en//id/1491)
+
 
 ---
 
