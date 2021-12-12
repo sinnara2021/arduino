@@ -1,4 +1,4 @@
-# arduino
+# arduino 미디어아트 작품
 ---
 #미디어 아티스트인 Aaron Sherwood와 Mike Allison이 만든 인터랙티브 미디어 인스톨레이션입니다.
 
