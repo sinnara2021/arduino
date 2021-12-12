@@ -18,4 +18,17 @@
 
 ---
 
+#아두이노 다큐멘터리 http://vimeo.com/18539129
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/18539129?h=1c19ae0ad9" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
+#아두이노의 철학과 앞으로의 미래에 대해 이야기 한 Massimo Banzi의 TED스피치
+
+http://www.ted.com/talks/view/lang/en//id/1491
+
+---
+
+
 
