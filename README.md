@@ -26,7 +26,7 @@
 
 #아두이노의 철학과 앞으로의 미래에 대해 이야기 한 Massimo Banzi의 TED스피치
 
-<iframe width="560" height="315" src="http://www.ted.com/talks/view/lang/en//id/1491" frameborder="0" allowfullscreen></iframe>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 
 ---
